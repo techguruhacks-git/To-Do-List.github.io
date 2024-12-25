@@ -1,5 +1,8 @@
 # To Do List
- A Beutiful and Interactive To-Do-List app that allows you to add , delete, and mark task as complete. Your tasks are saved even after closing the browser or refreshing the page, using SessionStorage.
+
+Made with the help of Tutorials and i changed the user interface and add some my own features.
+
+A Beutiful and Interactive To-Do-List app that allows you to add , delete, and mark task as complete. Your tasks are saved even after closing the browser or refreshing the page, using SessionStorage.
 
  Features: 
  1. Add Task: easily add tasks to your list by inputbox
